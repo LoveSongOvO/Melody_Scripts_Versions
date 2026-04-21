@@ -1,6 +1,6 @@
 {
   "version": "2.7.5",
-  "release_date": "2026-04-19",
+  "release_date": "2026-04-22",
   "changelog": [
     "新增: 完美支持QBOX框架",
     "新增: 完美支持OXCORE框架",
